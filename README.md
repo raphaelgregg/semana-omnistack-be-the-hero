@@ -1,5 +1,7 @@
 # Semana Omnistack 11.0
 
+Evento organizado pela Rocketseat, que abordou a construção do projeto Be The Hero e ocorreu no periodo de 23 a 27 de março de 2020.
+
 # Be The Hero
 O Projeto tem o objetivo de conectar ONGS que necessitam de ajuda a pessoas que podem contribuir com a causa. O desenvolvimento deste projeto aconteceu durante a Semana OmniStack 11.0, um evento realizado pela @Rocketseat, onde foi abordado a construção da aplicação completa com Node.js no back-end, ReactJS no front-end e React Native no mobile.
 
