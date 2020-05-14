@@ -1,15 +1,53 @@
-# Semana Omnistack 11.0
+<h1 align="center">
+    <img alt="BeTheHero" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+</h1>
 
-Evento organizado pela Rocketseat, que abordou a construção do projeto Be The Hero e ocorreu no periodo de 23 a 27 de março de 2020.
+<h4 align="center">
+  🚀 Semana OmniStack 11.0
+</h4>
 
-# Be The Hero
-O Projeto tem o objetivo de conectar ONGS que necessitam de ajuda a pessoas que podem contribuir com a causa. O desenvolvimento deste projeto aconteceu durante a Semana OmniStack 11.0, um evento realizado pela @Rocketseat, onde foi abordado a construção da aplicação completa com Node.js no back-end, ReactJS no front-end e React Native no mobile.
 
-# Recursos
-Para executar o projeto, será necessário instalar/usar os seguintes programas: Node.js, NPM, React, Express, editor de código-fonte
+<p align="center">
+  <a href="#evento">Evento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-# Tecnologias
-Backend, Node.js, Express, SQLite usando Knex.
-Website, o frontend do site foi criado usando o ReactJS.
-Mobile, o aplicativo mobile foi criado usando o React Native e o Expo.
+<br>
+
+<p align="center">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- <img src="imgs/node.png" alt="node" height="18"> [Node.js](https://nodejs.org/en/)
+- <img src="imgs/react.png" alt="react" height="18"> [React](https://reactjs.org)
+- <img src="imgs/react-native.png" alt="react-native" height="18"> [React Native](https://facebook.github.io/react-native/)
+- <img src="imgs/expo.png" alt="expo" height="18"> [Expo](https://expo.io/)
+
+## Evento
+
+Evento organizado pela @Rocketseat, que abordou a construção do projeto Be The Hero e ocorreu no periodo de 23 a 27 de março de 2020, na Semana Omnistack 11.0.
+
+Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
+
+Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o JavaScript :javascript:.
+Produtividade e performance de forma enxuta.
+
+## 💻 Projeto
+
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+
+**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
+
+**Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
+
 
